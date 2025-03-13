@@ -5,8 +5,6 @@ http://play.miroplayer.com/Moon1/index.m3u8
 http://play.miroplayer.com/Moon2/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Demo3" tvg-logo="" group-title="Group1",Demo3
 http://play.miroplayer.com/Moon3/index.m3u8
-#EXTINF:-1 tvg-ID="MBC 1" tvg-name="Demo4" tvg-logo="" group-title="Group1",Demo4
-http://master4k.me/movie/d333b0cffe/c5a9449e1e/619647.mkv
 #EXTINF:-1 tvg-ID="MBC 2" tvg-name="Demo5" tvg-logo="" group-title="Group1",Demo5
 http://play.miroplayer.com/Moon4/index.m3u8
 #EXTINF:-1 tvg-ID="MBC 2" tvg-name="Demo6" tvg-logo="" group-title="Group1",Demo6
